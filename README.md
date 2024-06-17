@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tanisqabhalla@gmail.com**
 
-- ⚡ Fun fact : **I don't sleep without solving the bug in my code!**
+- ⚡ Fun fact : **I don't sleep without fixing the bug in my code!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
